@@ -3,9 +3,14 @@ body {font-family: fantasy
 }
 
 #headerku {
-	background-color: #FFB100 !important;
+	background-color: #7286D3 !important;
 }
 
 #iconBurger {
 	color: white !important;
+}
+
+.Contact{
+	background-color: blue;
+	border-radius: 50px;
 }
